@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TareaPDM</string>
+    <string name="et1"> Digite un numero </string>
+    <string name="et2"> Digite un numero </string>
+    <string name="tv1"> Numero 1</string>
+    <string name="tv2"> Numero 2 </string>
+    <string name="btn1"> + </string>
+    <string name="btn2"> - </string>
+    <string name="btn3"> * </string>
+    <string name="btn4"> / </string>
+    <string name="btn5"> % </string>
+
+</resources>
